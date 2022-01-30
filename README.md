@@ -2,7 +2,7 @@
 - 👀 I’m interested in information technology
 - 🌱 I’m currently learning Bsc-Computer Networks and Information Security Engineering
 - 💞️ I’m looking to collaborate with Network,Security and developers 
-- 📫 How to reach me sophiajulius5@gamil.com
+- 📫 How to reach me sophiajulius5@gmail.com
 
 <!---
 gemstone-source/gemstone-source is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
