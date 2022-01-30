@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gemstone-source
 - 👀 I’m interested in information technology
-- 🌱 I’m currently learning Bsc-Computer Networks and Information Security Engineering
+- 🌱 I’m currently taking Bsc-Computer Networks and Information Security Engineering
 - 💞️ I’m looking to collaborate with Network,Security and developers 
 - 📫 How to reach me sophiajulius5@gmail.com
 
